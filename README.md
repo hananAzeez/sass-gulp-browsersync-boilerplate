@@ -1,1 +1,1 @@
-# abudhabi-malayalees
+# Sass gulp browsersync boilerplate code
